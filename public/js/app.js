@@ -13281,7 +13281,7 @@ var staticRenderFns = [
                         "a",
                         {
                           staticClass: "nav-link active",
-                          attrs: { href: "#home" }
+                          attrs: { href: "#" }
                         },
                         [
                           _vm._v("HOME "),
@@ -13295,10 +13295,7 @@ var staticRenderFns = [
                     _c("li", { staticClass: "nav-item" }, [
                       _c(
                         "a",
-                        {
-                          staticClass: "nav-link",
-                          attrs: { href: "#pricing" }
-                        },
+                        { staticClass: "nav-link", attrs: { href: "#" } },
                         [_vm._v("TIMELINE")]
                       )
                     ]),
@@ -13306,10 +13303,7 @@ var staticRenderFns = [
                     _c("li", { staticClass: "nav-item" }, [
                       _c(
                         "a",
-                        {
-                          staticClass: "nav-link",
-                          attrs: { href: "#features" }
-                        },
+                        { staticClass: "nav-link", attrs: { href: "#" } },
                         [_vm._v("ABOUT US")]
                       )
                     ]),
@@ -13317,10 +13311,7 @@ var staticRenderFns = [
                     _c("li", { staticClass: "nav-item" }, [
                       _c(
                         "a",
-                        {
-                          staticClass: "nav-link",
-                          attrs: { href: "#gallery" }
-                        },
+                        { staticClass: "nav-link", attrs: { href: "#" } },
                         [_vm._v("BLOG")]
                       )
                     ]),
@@ -13328,10 +13319,7 @@ var staticRenderFns = [
                     _c("li", { staticClass: "nav-item" }, [
                       _c(
                         "a",
-                        {
-                          staticClass: "nav-link",
-                          attrs: { href: "#contact" }
-                        },
+                        { staticClass: "nav-link", attrs: { href: "#" } },
                         [_vm._v("CONTACT")]
                       )
                     ]),
